@@ -1,6 +1,7 @@
-Flask
-qrcode
+flask
 opencv-python
 pyzbar
-Pillow
+qrcode
+pillow
 numpy
+
